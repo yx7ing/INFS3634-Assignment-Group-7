@@ -2,7 +2,9 @@
 
 Build instructions
 Just download the folder and open the project from android studio
+
 (Also works on phone, get apk from app/release/app-release.apk)
+
 To reset the database, uninstall the app from the emulator (or device)
 
 Home.java is the renamed main activity
